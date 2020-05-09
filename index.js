@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 let corsOptions = {
     origin: process.env.NODE_ENV === 'production'
-                ? 'https://ecomm-miniproject.herokuapp.com/'
+                ? 'https://ecomm-miniproject.herokuapp.com'
                 : '*'
 };
 app.use(cors(corsOptions));
