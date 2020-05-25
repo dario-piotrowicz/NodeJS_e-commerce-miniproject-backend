@@ -1,6 +1,6 @@
 # NodeJS_e-commerce-miniproject-backend
 
-This is the backend part of the project written in ReactJS simulating an e-commerce clothes shop that I coded along the following Udemy course: \
+This is the backend part of the project written in ReactJS simulating an e-commerce clothes shop (you can see it in its own repository [here](https://github.com/dario-piotrowicz/ReactJS_e-commerce-miniproject)) that I coded along the following Udemy course: \
 [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) By Andrei Neagoie and Yihua Zhang](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/).
 
 This part of the project (thought still following very closely the instructor's code) differs significantly from the course's implementation.
